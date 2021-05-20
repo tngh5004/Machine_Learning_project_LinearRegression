@@ -1,6 +1,6 @@
 # Machine_Learning_project_LinearRegression
 
-코드 부연설명이 적혀있는 블로그 https://ksh950510.tistory.com/34
+코드 부연설명이 적혀있는 블로그 https://ksh950510.tistory.com/34  
 데이터셋 출처 https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
 
 Pandas, Scikit Learn, Xgboost, Shap를 이용했습니다.
